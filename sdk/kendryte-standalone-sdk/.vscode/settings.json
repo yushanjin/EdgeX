@@ -1,0 +1,18 @@
+{
+    "files.associations": {
+        "util.h": "c",
+        "iomem.h": "c",
+        "utils.h": "c",
+        "sysctl.h": "c",
+        "printf.h": "c",
+        "nncase.h": "c",
+        "*.def": "cpp",
+        "array": "cpp",
+        "initializer_list": "cpp",
+        "list": "cpp",
+        "type_traits": "cpp",
+        "vector": "cpp",
+        "xhash": "cpp",
+        "xstring": "cpp"
+    }
+}
